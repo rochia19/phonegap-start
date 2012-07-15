@@ -2,7 +2,7 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.Rochie.amazing"
-	version 	= ""99.999">
+	version 	= "99.999">
 
 	<name>Rochie's Amazing app</name>
 
